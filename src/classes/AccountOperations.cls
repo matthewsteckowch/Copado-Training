@@ -4,7 +4,7 @@ public class AccountOperations {
         return a;//2nd user story
         }
          public static Account setDefaultphone(Account a) {
-        a.phone = '9999999999';
+        a.phone = '6666666666';
         return a;
     }
 }
